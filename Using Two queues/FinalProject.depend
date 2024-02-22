@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1708171081 source:f:\iti\project\finalproject\main.cpp
+	<iostream>
+	"Customer.h"
+	"Teller_v3.h"
+	"Bank.h"
+
+1708172104 f:\iti\project\finalproject\include\customer.h
+	<iostream>
+	<string>
+
+1707686681 f:\iti\project\finalproject\include\pioritycustomer.h
+	<iostream>
+	<string>
+
+1708007358 f:\iti\project\finalproject\include\teller.h
+	<iostream>
+	<string>
+
+1708171889 f:\iti\project\finalproject\include\bank.h
+	"Teller_v3.h"
+	"Customer.h"
+	<queue>
+	<iostream>
+
+1708089277 f:\iti\project\finalproject\include\teller_v3.h
+	"Customer.h"
+	<string>
+
