@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1708559601 source:f:\iti\project\finalversion\finalversion\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	<windows.h>
+
+1708587564 f:\iti\project\finalversion\finalversion\include\customer.h
+	<iostream>
+	<string>
+
+1708553664 f:\iti\project\finalversion\finalversion\include\teller.h
+
+1708619761 f:\iti\project\finalversion\finalversion\include\bank.h
+	"Customer.h"
+	"Teller.h"
+	<deque>
+	<iostream>
+	<algorithm>
+	<windows.h>
+
